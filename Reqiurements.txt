@@ -1,0 +1,11 @@
+Reqiurments:
+ Fingerprint door lock may be defined as “a system which grants access to authorized personnel
+ by virtue of recognizing their unique fingerprints.” You have probably looked at your hands
+ countless times and noticed the ridges and valley pattern.What are fingerprint door locks?
+Let’s start with the definition. Although the name in itself is pretty self-explanatory, 
+a fingerprint door lock may be defined as “a system which grants access to authorized personnel
+ by virtue of recognizing their unique fingerprints.”You have probably looked at your hands countless
+ times and noticed the ridges and valley pattern. The patterns were an important outcome of the human 
+evolution as they enhanced our ability to grip. However, an unforeseen consequence of this particular
+ step in the evolutionary process was to grant humans a fantastic method of identification.
+
