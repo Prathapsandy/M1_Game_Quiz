@@ -1,11 +1,15 @@
-Reqiurments:
- Fingerprint door lock may be defined as “a system which grants access to authorized personnel
- by virtue of recognizing their unique fingerprints.” You have probably looked at your hands
- countless times and noticed the ridges and valley pattern.What are fingerprint door locks?
-Let’s start with the definition. Although the name in itself is pretty self-explanatory, 
-a fingerprint door lock may be defined as “a system which grants access to authorized personnel
- by virtue of recognizing their unique fingerprints.”You have probably looked at your hands countless
- times and noticed the ridges and valley pattern. The patterns were an important outcome of the human 
-evolution as they enhanced our ability to grip. However, an unforeseen consequence of this particular
- step in the evolutionary process was to grant humans a fantastic method of identification.
-
+ #Introduction
+ 
+  Relevance
+ 
+     Quiz Contest is an android application that has general questions related to current afairs and computer! #t has multiple choice questions withtime limit and it also calculate scores of each correct answer.it is good for students of every age group it helps in increasing general knowledge about world sports and computer etc.Don*t need register simplygiven any user name and password itwill saved automatically and you can login again with same user name and password dont have toworry about the past score. The application helps the user to increase his/her knowledge. since smartphone mobiles are being widely used by general population and students& the Quiz Contestapplication can provide on the student*s mobile
+#Features of Quiz Game in C with Source Code
+ 1.modify score – adds the current monetary award received to the previous one when a question is correctly answered.
+ 2.help – a help menu with an explanation of the game and its rules.
+ 3.show score – displays the highest score/cash prize earned by a specific user.
+ 4.show record – displays the highest cash prize won by a specific user show.
+ 5.score – displays the highest score/cash prize won by a specific user.
+ 
+ #SWOT ANALYSIS
+  1.Strengths:
+    
