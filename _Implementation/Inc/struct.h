@@ -2,4 +2,4 @@
  struct gamer
  {
    int get score ();
- }
+ }s;
