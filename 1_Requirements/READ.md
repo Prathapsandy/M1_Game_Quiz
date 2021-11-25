@@ -1,59 +1,59 @@
 # **Requirements**
 
-# **Introduction:**
+# **Introduction :**
 
 I have divided this mini project into many functions, and listed below are some of those which may help you understand the project better.n this quiz game mini project, you can store the user name, view the highest score secured by a user, and even reset the score. Additionally, to make the game look a little more interesting, it is divided into two rounds; user must pass the first round to reach the second one.
 
-# **Research**
+# 1. **Research**
 
 To undertake these challenges, this paper focuses on two parts of quiz games, which are the gameplay of quiz games, and the questioning part of quiz games. For each part, this study attempts to figure out the reasonable game progress model to derive an appropriate measure of game refinement. The data have been collected using a variety of methods. For example, some data were collected through playing the game itself in order to identify the gameplay of quiz games, while some data were obtained from reliable sources on the internet.
 
-# **Feature and Timeline**
+# 2. **Feature and Timeline**
 
-- The system is fast, user friendly
-- The system is more accurate and clear, it is very unique.
+-  The system is fast, user friendly.
+-  The system is more accurate and clear, it is very unique.
 
-# **SWOT ANALYSIS**
+# 3. **SWOT ANALYSIS**
 
-**Strength**
+**.Strength**
 
 -  Fun for student.
-- It motivate student for atttending quiz rather then doing assingments.
-- Can be used in any where any time as it is web based application.
+-  It motivate student for atttending quiz rather then doing assingments.
+-  Can be used in any where any time as it is web based application.
 
-**Weakness**
+**.Weakness**
 
-- Late response when network problem arises
+-  Late response when network problem arises
 
-**Opportunity**
+**.Opportunity**
 
-- It can be act test material
+-  It can be act test material
 
-**Threats**
+**.Threats**
 
-- System crash error
+-  System crash error
 
 # **4W&#39;s and 1H**
 
 **Who**
 
-- Students
+-  Students
 
 **What**
 
-- Quick tricks
+-  Quick tricks
 
 **When**
 
-- Need to improve mathematical problem tricks.
+-  Need to improve mathematical problem tricks.
 
 **Where**
 
-- Used for improving speed in problem solving
+-  Used for improving speed in problem solving
 
 **How**
 
-- By continuosly solving quiz they can get the ability to solve faster.
+-  By continuosly solving quiz they can get the ability to solve faster.
 
 # **Details Requirements**
 
@@ -68,7 +68,7 @@ To undertake these challenges, this paper focuses on two parts of quiz games, wh
 | HLR5 | User shall be able For searching score (S) | Implemented |
 | HLR6 | User shall be able to Deleting score(D) | Implemented |
 
-- _ **Low Level Requirements:** _
+ - **Low Level Requirements:** 
 
 | **ID** | **Description** | **Status** |
 | --- | --- | --- |
