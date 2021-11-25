@@ -16,6 +16,18 @@ _Implementation/Unity/unity.c:1637:25: note: Assuming that condition 'pch!=NULL'
 _Implementation/Unity/unity.c:1726:16: note: Null pointer addition
             pch++;
                ^
+_Implementation/main.c:92:6: warning: Obsolete function 'gets' called. It is recommended to use 'fgets' or 'gets_s' instead. [getsCalled]
+     gets(playername);
+     ^
+_Implementation/main.c:16:2: warning: fscanf() without field width limits can crash with huge input data. [invalidscanf]
+ fscanf(f,"%s%f",&name,&s);
+ ^
+_Implementation/main.c:44:2: warning: fscanf() without field width limits can crash with huge input data. [invalidscanf]
+ fscanf(f,"%s%f",&nm,&sc);
+ ^
+_Implementation/main.c:57:10: style: Unused variable: pa [unusedVariable]
+     int pa;int nq[6];int w;
+         ^
 _Implementation/test/test.c:45:18: style: Variable 'name' is assigned a value that is never used. [unreadVariable]
     char name[10]="Balamurugan";
                  ^
@@ -100,16 +112,7 @@ _Implementation/Unity/unity.c:1731:0: style: The function 'UnityPrintF' is never
 _Implementation/Unity/unity.c:1844:0: style: The function 'UnitySetTestFile' is never used. [unusedFunction]
 
 ^
-_Implementation/src/operations.c:9:0: style: The function 'displayscore' is never used. [unusedFunction]
-
-^
-_Implementation/src/operations.c:26:0: style: The function 'help' is never used. [unusedFunction]
-
-^
 _Implementation/test/test.c:36:0: style: The function 'test_searchscores' is never used. [unusedFunction]
-
-^
-_Implementation/src/operations.c:37:0: style: The function 'writescore' is never used. [unusedFunction]
 
 ^
 nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingInclude]
