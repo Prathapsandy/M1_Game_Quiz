@@ -15,49 +15,49 @@ To undertake these challenges, this paper focuses on two parts of quiz games, wh
 
 ## 3. SWOT ANALYSIS
 
-**Strength**
+### Strength
 
--  Fun for student.
--  It motivate student for atttending quiz rather then doing assingments.
--  Can be used in any where any time as it is web based application.
+-   Fun for student.
+-   It motivate student for atttending quiz rather then doing assingments.
+-   Can be used in any where any time as it is web based application.
 
-**Weakness**
+### Weakness
 
--  Late response when network problem arises
+-   Late response when network problem arises
 
-**Opportunity**
+### Opportunity
 
 -   It can be act test material
 
-**Threats**
+### Threats
 
 -   System crash error
 
 ## 4W&#39;s and 1H
 
-**Who**
+### Who
 
 -   Students
 
-**What**
+### What
 
 -   Quick tricks
 
-**When**
+### When
 
 -   Need to improve mathematical problem tricks.
 
-**Where**
+### Where
 
 -   Used for improving speed in problem solving
 
-**How**
+### How
 
 -   By continuosly solving quiz they can get the ability to solve faster.
 
 ## Details Requirements
 
--   **High Level Requirements:**
+-   **High Level Requirements**
 
 | **ID** | **Description** | **Status** |
 | --- | --- | --- |
@@ -68,7 +68,7 @@ To undertake these challenges, this paper focuses on two parts of quiz games, wh
 | HLR5 | User shall be able For searching score (S) | Implemented |
 | HLR6 | User shall be able to Deleting score(D) | Implemented |
 
- -   **Low Level Requirements:** 
+ -  **Low Level Requirements**
 
 | **ID** | **Description** | **Status** |
 | --- | --- | --- |
