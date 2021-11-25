@@ -1,6 +1,6 @@
-## Details Requirements
+# Details Requirements
 
-**High Level Requirements:**
+## **High Level Requirements:**
 
 | **ID** | **Description** | **Status** |
 | --- | --- | --- |
@@ -11,7 +11,7 @@
 | HLR5 | User shall be able For searching score (S) | Implemented |
 | HLR6 | User shall be able to Deleting score(D) | Implemented |
 
-**Low Level Requirements:** 
+## **Low Level Requirements:** 
 
 | **ID** | **Description** | **Status** |
 | --- | --- | --- |
