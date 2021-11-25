@@ -9,3 +9,5 @@ A simple console based quiz game developed in C language. It displays random que
 ![code grade](https://api.codiga.io/project/30063/status/svg)
 ## Cppcheck
 [![cppcheck-action-test](https://github.com/Prathapsandy/M1_Game_Quiz/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Prathapsandy/M1_Game_Quiz/actions/workflows/cppcheck.yml)
+## Linux cpp
+[![cppcheck-action-test](https://github.com/Prathapsandy/M1_Game_Quiz/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Prathapsandy/M1_Game_Quiz/actions/workflows/cppcheck.yml)
