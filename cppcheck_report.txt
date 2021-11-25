@@ -1,0 +1,116 @@
+_Implementation/Unity/unity.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 16 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+_Implementation/Unity/unity.c:270:9: style: The scope of the variable 'nibble' can be reduced. [variableScope]
+    int nibble;
+        ^
+_Implementation/Unity/unity.c:1426:20: style: Variable 'i' is assigned a value that is never used. [unreadVariable]
+    UNITY_UINT32 i = 0;
+                   ^
+_Implementation/Unity/unity.c:1726:16: warning: Either the condition 'pch!=NULL' is redundant or there is pointer arithmetic with NULL pointer. [nullPointerArithmeticRedundantCheck]
+            pch++;
+               ^
+_Implementation/Unity/unity.c:1637:25: note: Assuming that condition 'pch!=NULL' is not redundant
+                if (pch != NULL)
+                        ^
+_Implementation/Unity/unity.c:1726:16: note: Null pointer addition
+            pch++;
+               ^
+_Implementation/test/test.c:45:18: style: Variable 'name' is assigned a value that is never used. [unreadVariable]
+    char name[10]="Balamurugan";
+                 ^
+_Implementation/Unity/unity.c:679:0: style: The function 'UnityAssertBits' is never used. [unusedFunction]
+
+^
+_Implementation/Unity/unity.c:1106:0: style: The function 'UnityAssertDoubleSpecial' is never used. [unusedFunction]
+
+^
+_Implementation/Unity/unity.c:1088:0: style: The function 'UnityAssertDoublesWithin' is never used. [unusedFunction]
+
+^
+_Implementation/Unity/unity.c:1040:0: style: The function 'UnityAssertEqualDoubleArray' is never used. [unusedFunction]
+
+^
+_Implementation/Unity/unity.c:898:0: style: The function 'UnityAssertEqualFloatArray' is never used. [unusedFunction]
+
+^
+_Implementation/Unity/unity.c:768:0: style: The function 'UnityAssertEqualIntArray' is never used. [unusedFunction]
+
+^
+_Implementation/Unity/unity.c:1498:0: style: The function 'UnityAssertEqualMemory' is never used. [unusedFunction]
+
+^
+_Implementation/Unity/unity.c:700:0: style: The function 'UnityAssertEqualNumber' is never used. [unusedFunction]
+
+^
+_Implementation/Unity/unity.c:1340:0: style: The function 'UnityAssertEqualString' is never used. [unusedFunction]
+
+^
+_Implementation/Unity/unity.c:1419:0: style: The function 'UnityAssertEqualStringArray' is never used. [unusedFunction]
+
+^
+_Implementation/Unity/unity.c:1379:0: style: The function 'UnityAssertEqualStringLen' is never used. [unusedFunction]
+
+^
+_Implementation/Unity/unity.c:965:0: style: The function 'UnityAssertFloatSpecial' is never used. [unusedFunction]
+
+^
+_Implementation/Unity/unity.c:946:0: style: The function 'UnityAssertFloatsWithin' is never used. [unusedFunction]
+
+^
+_Implementation/Unity/unity.c:721:0: style: The function 'UnityAssertGreaterOrLessOrEqualNumber' is never used. [unusedFunction]
+
+^
+_Implementation/Unity/unity.c:1220:0: style: The function 'UnityAssertNumbersArrayWithin' is never used. [unusedFunction]
+
+^
+_Implementation/Unity/unity.c:1173:0: style: The function 'UnityAssertNumbersWithin' is never used. [unusedFunction]
+
+^
+_Implementation/Unity/unity.c:1850:0: style: The function 'UnityBegin' is never used. [unusedFunction]
+
+^
+_Implementation/Unity/unity.c:1822:0: style: The function 'UnityDefaultTestRun' is never used. [unusedFunction]
+
+^
+_Implementation/Unity/unity.c:1614:0: style: The function 'UnityDoubleToPtr' is never used. [unusedFunction]
+
+^
+_Implementation/Unity/unity.c:1866:0: style: The function 'UnityEnd' is never used. [unusedFunction]
+
+^
+_Implementation/Unity/unity.c:1753:0: style: The function 'UnityFail' is never used. [unusedFunction]
+
+^
+_Implementation/Unity/unity.c:1605:0: style: The function 'UnityFloatToPtr' is never used. [unusedFunction]
+
+^
+_Implementation/Unity/unity.c:1790:0: style: The function 'UnityIgnore' is never used. [unusedFunction]
+
+^
+_Implementation/Unity/unity.c:1806:0: style: The function 'UnityMessage' is never used. [unusedFunction]
+
+^
+_Implementation/Unity/unity.c:1579:0: style: The function 'UnityNumToPtr' is never used. [unusedFunction]
+
+^
+_Implementation/Unity/unity.c:1731:0: style: The function 'UnityPrintF' is never used. [unusedFunction]
+
+^
+_Implementation/Unity/unity.c:1844:0: style: The function 'UnitySetTestFile' is never used. [unusedFunction]
+
+^
+_Implementation/src/operations.c:9:0: style: The function 'displayscore' is never used. [unusedFunction]
+
+^
+_Implementation/src/operations.c:26:0: style: The function 'help' is never used. [unusedFunction]
+
+^
+_Implementation/test/test.c:36:0: style: The function 'test_searchscores' is never used. [unusedFunction]
+
+^
+_Implementation/src/operations.c:37:0: style: The function 'writescore' is never used. [unusedFunction]
+
+^
+nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingInclude]
+
