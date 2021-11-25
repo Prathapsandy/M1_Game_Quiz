@@ -1,4 +1,4 @@
-# **Details Requirements**
+## Details Requirements
 
 **High Level Requirements:**
 
@@ -11,10 +11,9 @@
 | HLR5 | User shall be able For searching score (S) | Implemented |
 | HLR6 | User shall be able to Deleting score(D) | Implemented |
 
-_ **Low Level Requirements:** _
+**Low Level Requirements:** 
 
 | **ID** | **Description** | **Status** |
 | --- | --- | --- |
 | LLR1 | User shall be able to fetch perfect score implemented | Implemented |
 | LLR2 | System must display data without error | Implemented |
-
