@@ -13,7 +13,7 @@ void displayscore()
  FILE *f; 
  system("cls");
  f=fopen("score.txt","r");
- fscanf(f,"%s%f",&name,&s);
+ fscanf(f,"%f",&name,&s);
  printf("\n\n\t\t ");
  printf("\n\n\t\t %s has secured the Highest Score %.2f",name,s);
  printf("\n\n\t\t ");
