@@ -11,13 +11,13 @@ To undertake these challenges, this paper focuses on two parts of quiz games, wh
 # **Feature and Timeline**
 
 - The system is fast, user friendly
--  The system is more accurate and clear, it is very unique.
+- The system is more accurate and clear, it is very unique.
 
 # **SWOT ANALYSIS**
 
 **Strength**
 
-- Fun for student.
+-  Fun for student.
 - It motivate student for atttending quiz rather then doing assingments.
 - Can be used in any where any time as it is web based application.
 
